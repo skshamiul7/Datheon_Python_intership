@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/raw/*
+data/processed/*
+logs/*
+!data/raw/.gitkeep
+!data/raw/books.csv
+!data/raw/books.json
+!data/processed/.gitkeep
+!logs/.gitkeep
